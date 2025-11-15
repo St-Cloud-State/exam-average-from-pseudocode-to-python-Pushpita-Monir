@@ -1,27 +1,24 @@
+# Assignment: Calculate Average of Three Scores
 
-# Assignment: Calculate Average of Three Exam Scores
+This assignment asks you to write a Python program that collects three exam scores from the user, uses a function you create to compute the average, and then prints each score and the final average on separate lines.
 
-## Objective
-Write a Python program that:
-- Prompts the user to enter **three exam scores** (whole numbers or fractions).
-- Calculates the **average score** using a function.
-- Displays the three entered scores and the calculated average.
+Before writing any code, add your pseudocode at the top of your file as a multi-line comment. After that, write your Python code with a brief comment above each line.
 
----
+Your output should follow the same general format as the example below:
 
-## Instructions
-1. **Read the comments in `main.py` carefully**, then remove them after understanding.
-2. At the top of your file, **write pseudocode as multi-line comments** describing your approach.
-3. For each step in your code:
-   - **Write a comment first**, then write the actual code.
-   - **Comment line by line** to explain what each line does.
-4. Define a function that calculates the average of three numbers.
-5. **Call the function at the end** and display the results in the required format.
+Enter first score: ...
 
----
+Enter second score: ...
 
-## Expected Output Example
-Enter first score: 90
-Enter second score: 80
-Enter third score: 70
-The average score is: 80.0
+Enter third score: ...
+
+First score: ...
+
+Second score: ...
+
+Third score: ...
+
+The average score is: ...
+
+Open **main.py** to get started. It contains the instructions for how to organize your work.
+
